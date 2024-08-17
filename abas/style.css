@@ -39,6 +39,18 @@
     font-weight: 500;
     color:#fff;
 }
+.input-box{
+    display:flex;
+    flex-direction: column;
+    margin-bottom:1.1rem;
+}
+.input-box input{
+    margin:0.6rem 0;
+    padding: 0.8rem 1.2rem;
+    border:none;
+    border-radius: 20px;
+    box-shadow:1px 1px 6px #0000001c ;
+}
 body{
     width: 100%;
     height: 100vh;
