@@ -21,6 +21,15 @@
     background-color: #fff;
     padding:3rem;
 }
+.botao_materia{
+    width:50%;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 1rem;
+    margin:0px black solid;
+    border-radius: 25px;
+} 
 .form_header{
     margin-bottom:3rem;
     display:flex;
