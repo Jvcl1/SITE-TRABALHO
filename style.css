@@ -26,9 +26,10 @@
     justify-content: center;
     flex-direction: column;
     background-color: #fff;
-    padding: 1rem;
-    margin:0px black solid;
-    border-radius: 25px;
+    padding: 1rem 5rem;
+    border:none;
+    margin:0px;
+    border-radius: 15px;
 } 
 .form_header{
     margin-bottom:3rem;
