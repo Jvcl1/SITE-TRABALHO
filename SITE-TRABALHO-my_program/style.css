@@ -28,9 +28,9 @@
     background-color: #fff;
     padding: 1rem 5rem;
     border:none;
-    margin:px;
+    margin:10px;
     border-radius: 15px;
-} 
+}
 .form_header{
     margin-bottom:3rem;
     display:flex;
@@ -42,7 +42,7 @@
     padding: 1rem 5rem;
     border-radius: 5px;
     cursor:pointer;
-    margin:100px;
+    margin:10px;
 }
 .all-button button a{
     text-decoration: none;
